@@ -3,7 +3,7 @@ O Reading XML é uma aplicação desenvolvida para simplificar a leitura de dado
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-<img src="https://img.shields.io/badge/-Java-%23333?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+<!-- <img src="https://img.shields.io/badge/-Java-%23333?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> -->
 <br>
 <img src="https://img.shields.io/badge/-Spring-%23333?style=for-the-badge&logo=springboot&logoColor=white" target="_blank"></a>
 
